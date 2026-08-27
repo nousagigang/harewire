@@ -3,5 +3,5 @@
 #/                   /index.html
 /home               /index.html
 /about              /index.html
-/.git/              /404.html
-/logs               /logs.html
+#/.git/              /404.html
+#/logs               /logs.html
