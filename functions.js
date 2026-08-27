@@ -72,7 +72,7 @@ const u = new Date("2024"),
       x = u.getFullYear(),
       y = w.getFullYear(),
       copyR = "Copyright &COPY;",
-      authorName = "Harewire Bot by Nousagi Gang",
+      authorName = "Harewire Bot by <a href='https://nousagigang.web.app/members/k4lm3d' target='_blank'>K4LM3D</a>",
       showYear1 = `${copyR} ${x} ${authorName}`,
       showYear2 = `${copyR} ${x}-${y} ${authorName}`;
 
